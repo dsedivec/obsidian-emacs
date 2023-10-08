@@ -1,9 +1,9 @@
 {
-	"id": "show-white-space",
-	"name": "Show White Space",
+	"id": "emacs-keymap",
+	"name": "Emacs Keymap",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Visualize white space (spaces, tabs) using CodeMirror's built-in extension.",
+	"description": "Emacs keymap for CodeMirror 6 in Obsidian.",
 	"author": "Dale Sedivec",
-	"isDesktopOnly": false
+	"isDesktopOnly": true
 }
